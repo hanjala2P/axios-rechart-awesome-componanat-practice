@@ -1,0 +1,53 @@
+{
+  "pricing_plans": [
+    {
+      "id": 1,
+      "type": "Product",
+      "title": "Pro-Cream Developer",
+      "subtitle": "Volume 20 (Professional Grade)",
+      "price": 14.99,
+      "unit": "per bottle",
+      "features": [
+        "Consistent color results",
+        "Gentle on scalp formula",
+        "Built-in conditioning agents"
+      ],
+      "button_text": "Add to Cart",
+      "is_featured": false,
+      "color_theme": "#38BDF8"
+    },
+    {
+      "id": 2,
+      "type": "Service",
+      "title": "Junior UI/UX Designer",
+      "subtitle": "Freelance Support",
+      "price": 45.00,
+      "unit": "per hour",
+      "features": [
+        "Basic Wireframing",
+        "UI Component Design",
+        "2 Rounds of Revision"
+      ],
+      "button_text": "Hire Designer",
+      "is_featured": false,
+      "color_theme": "#4ADE80"
+    },
+    {
+      "id": 3,
+      "type": "Service",
+      "title": "Premium UI/UX Package",
+      "subtitle": "Full Product Design",
+      "price": 2500.00,
+      "unit": "starting price",
+      "features": [
+        "Full User Research",
+        "Interactive Prototypes",
+        "Design System & Source Files",
+        "Unlimited Revisions"
+      ],
+      "button_text": "Get Started",
+      "is_featured": true,
+      "color_theme": "#A855F7"
+    }
+  ]
+}
